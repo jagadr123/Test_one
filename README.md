@@ -1,6 +1,5 @@
 # Test_one
-for jenkins
-hi my name is jagadeesh
-today is friday
+hi , this is a test file. 1st project between git hub to Jenkins
 
-updated today
+thanks,
+jagadeesh 
